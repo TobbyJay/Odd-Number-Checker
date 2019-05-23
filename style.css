@@ -1,0 +1,44 @@
+body {
+    background: rgba(224, 223, 223, 0.678);
+}
+
+.inner {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid rgb(202, 193, 193);
+    border-radius: 10px;
+    height: 240px;
+    margin-top: 200px;
+    background: white;
+}
+
+hr {
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+#first {
+    width: 70%;
+}
+
+#btn {
+    margin-top: 30px;
+    width: 40%;
+    color: white;
+    border-radius: 30px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: monospace;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#out {
+    background-color: darkgray;
+    color: white;
+    margin-top: 20px;
+}
